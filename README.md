@@ -1,7 +1,8 @@
+CONTINUE HERE -> https://learn.microsoft.com/en-us/training/modules/automate-azure-infrastructure-change-reviews-using-bicep-github/6-exercise-create-ephemeral-environments-pull-requests
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
